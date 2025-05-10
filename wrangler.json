@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cf-workers-demo",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5187d9ba-e3bd-475c-ae50-a65cd88674ef",
+      "database_name": "cf-workers-demo-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
